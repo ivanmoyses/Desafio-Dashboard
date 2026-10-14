@@ -83,12 +83,6 @@ Para atualizar as análises após alterações na base, utilize o recurso **Dado
 
 > **Compatibilidade:** recomenda-se utilizar uma versão do Microsoft Excel compatível com tabelas dinâmicas, gráficos dinâmicos e segmentações de dados. Outros editores de planilhas podem apresentar diferenças de compatibilidade ou comportamento.
 
-## 📸 Demonstração
-
-Adicione uma captura de tela do dashboard à pasta `images` do repositório e utilize o bloco abaixo. O nome do arquivo da imagem deve corresponder ao caminho indicado.
-
-![Dashboard de vendas Xbox Game Pass](images/dashboard.png)
-
 ## 📚 Aprendizados
 
 O desenvolvimento deste projeto permitiu praticar a organização de bases de dados, a construção de tabelas dinâmicas, a utilização de filtros interativos e a criação de indicadores visuais para apoiar análises de vendas.
